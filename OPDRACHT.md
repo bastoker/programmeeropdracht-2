@@ -10,7 +10,7 @@ De opdracht is om deze feature toe te voegen aan de applicatie.
 ## Acceptatiecriteria:
 
 1. Per auteur worden het aantal woorden van alle blogposts van deze auteur bij elkaar opgeteld
-2. Dit totaal wordt per auteur getoond in de standaard output (net zoals de bestaande functie die de blogs toont)
+2. Dit totaal wordt per auteur getoond in de standaard output
 
 ## Tips
 De app in MyApp.java is al voorbereid met een lege methode met de naam toonAantalWoordenPerAuteur();
