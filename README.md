@@ -2,6 +2,14 @@
 
 Deze opdracht bevat een opzet voor een Java-applicatie met bijbehorende Junit5-unittests.
 
+## Ophalen applicatie
+Om de applicatiecode te downloaden heb je Git nodig, bijv. https://git-scm.com/download/win
+Vervolgens kan je met git (bijv. in een Git-Bash window) het volgende commando uitvoeren:
+```
+git clone https://github.com/bastoker/programmeeropdracht-2.git
+```
+
+
 ## Bouwen Applicatie
 Om deze applicatie te draaien heb je Java 11 nodig op je systeem (en een IDE zoals IntelliJ)
 
